@@ -20,10 +20,10 @@ I’m an aspiring **Data Analyst/Data Scientist** with hands-on experience in:
 
 | Project Name                        | Description                                      | Tools & Tech                   |
 |------------------------------------|-------------------------------------------------|--------------------------------|
-| [Sales Performance Dashboard](#)   | Analyzed and visualized sales data to identify trends and optimize strategies. | SQL, Tableau, Python           |
+| [Sales Performance Dashboard](https://github.com/dzulwulann/KF_BranchAnalytics)   | Analyzed and visualized sales data to identify trends and optimize strategies. | SQL, BigQuery, Looker           |
 | [Customer Churn Prediction](#)     | Built a machine learning model to predict customer churn with high accuracy.   | Python, Scikit-learn, Pandas   |
 | [E-commerce Data Analysis](#)      | Performed exploratory data analysis on e-commerce transactions to uncover user behavior patterns. | BigQuery, Python, Matplotlib   |
-| [Marketing Campaign Analysis](#)   | Analyzed marketing campaign effectiveness to optimize budget allocation.       | SQL, Power BI, Excel           |
+| [Credit Score Prediction](https://github.com/dzulwulann/CreditScorePrediction)   | develop a machine learning model to predict whether a user will pay on time or face issues with their payment.       | Python, Sklearn, Pandas, Seaborn |
 
 > **Note:** Click on each project to view detailed documentation, code, and insights.
 
@@ -32,9 +32,9 @@ I’m an aspiring **Data Analyst/Data Scientist** with hands-on experience in:
 ## 🛠️ Skills & Tools
 
 - **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn), SQL  
-- **Data Visualization:** Tableau, Power BI, Matplotlib, Seaborn  
+- **Data Visualization:** Tableau, Looker, Matplotlib, Seaborn 
 - **Machine Learning:** Regression, Classification, Clustering  
-- **Databases:** MySQL, BigQuery  
+- **Databases:** MySQL, BigQuery, PostgreSQL  
 - **Other Tools:** Excel, Git, Jupyter Notebooks  
 
 ---

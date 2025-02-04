@@ -22,7 +22,7 @@ I’m an aspiring **Data Analyst/Data Scientist** with hands-on experience in:
 |------------------------------------|-------------------------------------------------|--------------------------------|
 | [Sales Performance Dashboard](https://github.com/dzulwulann/KF_BranchAnalytics)   | Analyzed and visualized sales data to identify trends and optimize strategies. | SQL, BigQuery, Looker           |
 | [Customer Churn Prediction](#)     | Built a machine learning model to predict customer churn with high accuracy.   | Python, Scikit-learn, Pandas   |
-| [E-commerce Data Analysis](#)      | Performed exploratory data analysis on e-commerce transactions to uncover user behavior patterns. | BigQuery, Python, Matplotlib   |
+| [E-commerce Data Analysis](https://github.com/dzulwulann/Ecomerce_Business)      | Performed exploratory data analysis on e-commerce transactions and Business Performance | BigQuery, SQl, Looker, Tableau   |
 | [Credit Score Prediction](https://github.com/dzulwulann/CreditScorePrediction)   | develop a machine learning model to predict whether a user will pay on time or face issues with their payment.       | Python, Sklearn, Pandas, Seaborn |
 
 > **Note:** Click on each project to view detailed documentation, code, and insights.
@@ -42,14 +42,14 @@ I’m an aspiring **Data Analyst/Data Scientist** with hands-on experience in:
 ## 📊 Featured Project: Sales Performance Dashboard
 
 **Description:**  
-Analyzed a large dataset of sales transactions to identify key trends, top-performing products, and regional growth opportunities.
+Analyzed a large dataset of sales transactions to identify revenue growth, top-performing branch, and regional growth opportunities.
 
 **Key Highlights:**  
-- Cleaned and processed 100,000+ rows of raw data.  
-- Created an interactive dashboard using Tableau.  
-- Provided actionable insights to improve sales strategies.
+- Processed 100,000+ rows of raw data.  
+- Created an interactive dashboard using Looker. 
 
-👉 [View Project Here](#)
+
+👉 [View Project Here](https://github.com/dzulwulann/KF_BranchAnalytics)
 
 ---
 

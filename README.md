@@ -21,7 +21,7 @@ I’m an aspiring **Data Analyst/Data Scientist** with hands-on experience in:
 | Project Name                        | Description                                      | Tools & Tech                   |
 |------------------------------------|-------------------------------------------------|--------------------------------|
 | [Sales Performance Dashboard](https://github.com/dzulwulann/KF_BranchAnalytics)   | Analyzed and visualized sales data to identify trends and optimize strategies. | SQL, BigQuery, Looker           |
-| [Customer Churn Prediction](#)     | Built a machine learning model to predict customer churn with high accuracy.   | Python, Scikit-learn, Pandas   |
+| [Hotel Peformance Investigation](https://github.com/dzulwulann/Hotel_performance)     | exploratory analysis and data visualization to investigate hotel business performance   | Python, Pandas, Seaborn   |
 | [E-commerce Data Analysis](https://github.com/dzulwulann/Ecomerce_Business)      | Performed exploratory data analysis on e-commerce transactions and Business Performance | BigQuery, SQl, Looker, Tableau   |
 | [Credit Score Prediction](https://github.com/dzulwulann/CreditScorePrediction)   | develop a machine learning model to predict whether a user will pay on time or face issues with their payment.       | Python, Sklearn, Pandas, Seaborn |
 
@@ -39,7 +39,7 @@ I’m an aspiring **Data Analyst/Data Scientist** with hands-on experience in:
 
 ---
 
-## 📊 Featured Project: Sales Performance Dashboard
+<!-- ## 📊 Featured Project: Sales Performance Dashboard
 
 **Description:**  
 Analyzed a large dataset of sales transactions to identify revenue growth, top-performing branch, and regional growth opportunities.
@@ -49,7 +49,7 @@ Analyzed a large dataset of sales transactions to identify revenue growth, top-p
 - Created an interactive dashboard using Looker. 
 
 
-👉 [View Project Here](https://github.com/dzulwulann/KF_BranchAnalytics)
+👉 [View Project Here](https://github.com/dzulwulann/KF_BranchAnalytics) -->
 
 ---
 
